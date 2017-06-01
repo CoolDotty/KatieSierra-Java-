@@ -1,1 +1,1 @@
-Hi
+Hi. The goal of this bot was to allow a server of Discord Overwatch puggers to all !queue [battletag] up and the server would matchmake even teams. In the middle of expanding the player object to include their Discord ID, I found out my web host doesn't allow Java anyway. So development is halted as I port to python. Take a peek!
